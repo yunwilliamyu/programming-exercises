@@ -1,6 +1,6 @@
 -- Project Euler Problem 10 - summation of primes
 --
--- Find the sum of all the primes below two million
+-- sum of all primes below two million
 --
 --
 

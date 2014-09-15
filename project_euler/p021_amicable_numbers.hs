@@ -1,6 +1,6 @@
 -- Project Euler Problem 21 - amicable numbers
 --
--- What is the value of the first triangle number to have over five hundred divisors?
+-- Number of amicable numbers under 10000
 --
 
 

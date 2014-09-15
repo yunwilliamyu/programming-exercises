@@ -1,6 +1,6 @@
 -- Project Euler Problem 3 - Largest prime factor
 --
--- What is the largest prime factor of the number 600851475143 ?
+-- Largest prime factor of 600851475143
 --
 
 import Data.List

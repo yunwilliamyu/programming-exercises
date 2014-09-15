@@ -1,6 +1,6 @@
 -- Project Euler Problem 14 Longest Collatz sequence
 --
--- Which starting number, under one million, produces the longest Collatz chain?
+-- Longest Collatz chain starting under 1000000
 --
 
 import Data.Ord

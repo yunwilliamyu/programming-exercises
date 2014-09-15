@@ -1,6 +1,6 @@
 -- Project Euler Problem 5 - Smallest multiple
 --
--- What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
+-- Smallest positive number evenly divisible by all of the numbers from 1 to 20
 --
 
 import Data.List

@@ -1,6 +1,6 @@
 -- Project Euler Problem 6 - Sum square difference
 --
--- Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
+-- difference between the sum of squares and square of the sum of the first one hundred natural numbers
 --
 --
 

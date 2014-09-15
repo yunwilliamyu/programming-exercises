@@ -1,6 +1,6 @@
 -- Project Euler Problem 17 number letter counts
 --
--- If all the numbers from 1 to 1000 inclusive were written out in words, how many letters would be used?
+-- If all the numbers from 1 to 1000 were written out in words, how many letters would be used?
 --
 
 through_ones = ["", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"]

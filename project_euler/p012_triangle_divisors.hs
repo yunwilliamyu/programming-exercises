@@ -1,6 +1,6 @@
 -- Project Euler Problem 12 - highly divisible triangular number
 --
--- What is the value of the first triangle number to have over five hundred divisors?
+-- First triangle number to have over five hundred divisors
 --
 
 import Data.List

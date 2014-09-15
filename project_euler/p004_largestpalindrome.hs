@@ -1,6 +1,6 @@
 -- Project Euler Problem 4 - largest palindrome
 --
--- Find the largest palindrome made from the product of two 3-digit numbers.
+-- Largest palindrome that's the product of two 3-digit numbers.
 --
 
 main = do
