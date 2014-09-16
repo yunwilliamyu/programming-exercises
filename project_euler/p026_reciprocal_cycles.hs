@@ -1,4 +1,4 @@
--- Project Euler Problem 25 - reciprocal cycles
+-- Project Euler Problem 26 - reciprocal cycles
 --
 -- Longest recurring cycle in decimal fraction part of 1/d for d<1000, d \in Int
 --
